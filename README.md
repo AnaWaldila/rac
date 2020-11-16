@@ -135,7 +135,7 @@ Finally, Figure 8 show about the software, the University, developer and profess
  <b>Figure 8:</b> RAC - About the Software Window
 </p>
 
-##Informations About the Software
+## Informations About the Software
 
 Rio de Janeiro State University
 
