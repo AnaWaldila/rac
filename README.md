@@ -128,10 +128,23 @@ Figure 4 shows all costs about horizontal and vertical donductor, water tank, sy
 Finally, Figure 8 show about the software, the University, developer and professor:
 
 <div>
-<img src="Figures/RAC - 08.png" width="100%">
+<img src="Figures/RAC - 08.png" width="70%">
 </div>
 <p>
  
  <b>Figure 8:</b> RAC - About the Software Window
 </p>
 
+##Informations About the Software
+
+Rio de Janeiro State University
+
+Faculty of Engineering
+
+Developer: Ana Waldila de Queiroz Ramiro Reis
+
+Professors: Alfredo Akira Ohnuma Junior
+
+Contact: anawaldila@hotmail.com
+
+Project website: https://projetosapuerj.com/rac/
