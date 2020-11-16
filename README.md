@@ -135,6 +135,12 @@ Finally, Figure 8 show about the software, the University, developer and profess
  <b>Figure 8:</b> RAC - About the Software Window
 </p>
 
+## References
+
+Jacob, R.V.B, Junior, A.A.O.,Siciliano, W.C., Reis, A.W.Q.R, Oliveira, I.T. Dias consecutivos secos para estivativa de volumes de aproveitamento de águas pluviais em períodos de estiagem na cidade do Rio de Janeiro. 10° Simpósio Brasileiro de Captação e Manejo, Belem-Pa, 2016.
+
+JACOB, RAYSSA VOGELER BERQUÓ ; OHNUMA JR, ALFREDO AKIRA ; SICILIANO, WILLIAN CAMPOS ; REIS, ANA WALDILA DE QUEIROZ RAMIRO ; OLIVEIRA, ISRAEL TIAGO DE . CONSECUTIVE DAYS DRIED TO ESTIMATED OF RESERVOIRS FOR RAINWATER HARVESTING IN DROUGHT PERIODS IN RIO DE JANEIRO CITY. ITEGAM- Journal of Engineering and Technology for Industrial Applications (ITEGAM-JETIA), v. 3, p. 185-189, 2017.
+
 ## Informations About the Software
 
 Rio de Janeiro State University
