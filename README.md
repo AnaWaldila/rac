@@ -71,13 +71,67 @@ The annual inflation considered is (%): <b>[here the inflation considered by the
 
 The payback time is (years): <b>[here the time in years]</b>"
 
-Figure 3 show all this results
+Figure 3 show all this results.
 
 <div>
 <img src="Figures/RAC - 03.png" width="100%">
 </div>
 <p>
  
- 
  <b>Figure 3:</b> RAC - Result Window
 </p>
+
+However, the user can export all result in a .txt file.
+
+Return no principal window, all other buttons presents an explanations about the cost, thr Rio de Janeiro's City, water collection system, using the program and about the programa (like explaneted above). All of these presents explanations in Portuguese. 
+
+Figure 4 shows all costs about horizontal and vertical donductor, water tank, system accessories and system instalation. Methods about how to calculate these costs are presented as well as how to calculate the non potable water consume.
+
+<div>
+<img src="Figures/RAC - 04.png" width="100%">
+</div>
+<p>
+ 
+ <b>Figure 4:</b> RAC - System Implementation Cost Window
+</p>
+
+"Sobre Rio de Janeiro" are presented an explanations about ALERTA RIO and how to collect data base to design the water tank in software. All data base based on in hydrometheorological conditions in Rio de Janeiro's City. Next, Figure 5 show this:
+
+<div>
+<img src="Figures/RAC - 05.png" width="100%">
+</div>
+<p>
+ 
+ <b>Figure 5:</b> RAC - Rio de Janeiro's City Window
+</p>
+
+"Sistema de Coleta de Água", or Water Collect System, presents a litter informations about how the user can collect rainwater and their importance. However, litter informations about components are presented for the user. Next, Figure 6 show this:
+
+<div>
+<img src="Figures/RAC - 06.png" width="100%">
+</div>
+<p>
+ 
+ <b>Figure 6:</b> RAC - Water Collect System Window
+</p>
+
+"Utilizando o Software", or Using Software, shows a explanation about how to use RAC software and the input data do design a water tank and their system. Figure 7 show this:
+
+<div>
+<img src="Figures/RAC - 07.png" width="100%">
+</div>
+<p>
+ 
+ <b>Figure 7:</b> RAC - Using Software Window
+</p>
+
+Finally, Figure 8 show about the software, the University, developer and professor:
+
+<div>
+<img src="Figures/RAC - 08.png" width="100%">
+</div>
+<p>
+ 
+ <b>Figure 8:</b> RAC - About the Software Window
+</p>
+
